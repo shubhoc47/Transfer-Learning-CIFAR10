@@ -1,6 +1,3 @@
-Here’s a suggested content structure for your **README.md** file for GitHub, which describes the project and provides instructions on how to use it:
-
-### `README.md` Content:
 
 ```md
 # CIFAR-10 Image Classification with Transfer Learning
